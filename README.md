@@ -72,3 +72,8 @@ This repository contains a full pipeline for hate speech detection, from data co
 These models are available on **Hugging Face** for fine-tuned hate speech detection.
 
 
+## 💾 Large File Storage
+For large files related to this project, you can access them via **Google Drive**:
+[Large File Storage](https://drive.google.com/drive/folders/1LL21xuq3LcupI7nOYE6EDpiA_XGiTJrj?usp=drive_link)
+
+
