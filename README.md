@@ -56,15 +56,13 @@ This repository contains a full pipeline for hate speech detection, from data co
 ## 🚀 LoRA Fine-Tuned Models on Hugging Face
 
 ### **Binary Classification Models**
-- `m2.v2.lgb.llama1B`
-- `m2.v2.lgb.Qwen14B`
+- `dangdangde/m2.v2.lgb.llama1B`
+- `dangdangde/m2.v2.lgb.Qwen14B`
 
 ### **Multi-Class Classification Models**
-- `multi.lgb.Llama1B`
-- `multi.lgb.Qwen14B`
+- `dangdangde/multi.lgb.Llama1B`
+- `dangdangde/multi.lgb.Qwen14B`
 
 These models are available on **Hugging Face** for fine-tuned hate speech detection.
 
----
-📢 **For more details, feel free to explore each module!** 🚀
 
