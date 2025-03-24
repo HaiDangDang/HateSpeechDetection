@@ -58,10 +58,16 @@ This repository contains a full pipeline for hate speech detection, from data co
 ### **Binary Classification Models**
 - `dangdangde/m2.v2.lgb.llama1B`
 - `dangdangde/m2.v2.lgb.Qwen14B`
+- `dangdangde/m2.v8.lgb.Llama1B`
+- `dangdangde/m2.v9.lgb.Llama1B`
+- `dangdangde/m1.m2.v1.mean.Llama1B`
+- `dangdangde/m2.v4.lgb.Qwen14B`
 
 ### **Multi-Class Classification Models**
 - `dangdangde/multi.lgb.Llama1B`
+- `dangdangde/m2.multi.v3.mean.Llama1B`
 - `dangdangde/multi.lgb.Qwen14B`
+- `dangdangde/m2.multi.v2.mean.Qwen14B`
 
 These models are available on **Hugging Face** for fine-tuned hate speech detection.
 
